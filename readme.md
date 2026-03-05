@@ -65,7 +65,7 @@ A **Eduna** é como uma professora particular disponível 24 horas. O aluno pode
 - **Caderno de erros** — A IA identifica quais temas o aluno mais erra e sugere exercícios focados nessas áreas
 - Exportação dos exercícios e resultados em **PDF**
 - Pode **compartilhar seus resultados** na rede social da escola
-- Disponível para: Matemática, Português, História, Geografia, Ciências, Inglês, Artes e Educação Física
+- Disponível para: Matemática, Português, História, Geografia, Ciências, Inglês, Artes e Educação Física,.....
 
 #### Boletim Digital
 - Notas organizadas por matéria e bimestre
