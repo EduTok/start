@@ -1,7 +1,5 @@
 # EduTok — Plataforma Educacional Inteligente
 
-> **Documento de Apresentação para a Secretaria de Educação**
-> Versão 1.3 · Março de 2026
 
 ---
 
