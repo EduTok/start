@@ -314,7 +314,20 @@ Todas as mensagens e atualizações de dados trafegam por canais protegidos, gar
 
 ---
 
-## 7. Benefícios para a Rede de Ensino
+## 7. Integração com a BNCC
+
+O EduTok foi projetado para apoiar o currículo educacional brasileiro e pode ser adaptado às diretrizes da Base Nacional Comum Curricular (BNCC).
+
+A inteligência artificial Eduna pode gerar:
+- **Exercícios alinhados** às competências da BNCC
+- **Atividades específicas** por série e componente curricular
+- **Materiais de apoio** para professores
+
+> Isso garante que a plataforma não substitui o currículo, mas apoia a sua aplicação.
+
+---
+
+## 8. Benefícios para a Rede de Ensino
 
 | Benefício | O Que Muda na Prática |
 | --------- | --------------------- |
@@ -330,6 +343,35 @@ Todas as mensagens e atualizações de dados trafegam por canais protegidos, gar
 
 ---
 
+## 9. Implementação na Rede de Ensino
+
+A implantação do EduTok pode ser realizada de forma simples e gradual.
+
+### Etapa 1 — Cadastro da Rede
+A Secretaria cadastra todas as escolas da rede municipal no sistema.
+
+### Etapa 2 — Cadastro das Equipes
+Diretores e coordenadores cadastram:
+- Professores
+- Turmas
+- Alunos
+- Responsáveis
+
+*Esse processo pode ser feito manualmente ou por importação de planilhas.*
+
+### Etapa 3 — Treinamento
+Treinamentos rápidos (online ou presencial) são realizados para:
+- Gestores
+- Professores
+- Equipe administrativa
+
+> A interface do EduTok é simples e intuitiva, permitindo adaptação rápida.
+
+### Etapa 4 — Início do Uso
+Após o cadastro inicial, a plataforma já pode ser utilizada para:
+- Lançamento de notas
+- Comunicação com as famílias
+- Uso da inteligência artificial educacional
 
 ---
 
