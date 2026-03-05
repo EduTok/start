@@ -330,15 +330,6 @@ Todas as mensagens e atualizações de dados trafegam por canais protegidos, gar
 
 ---
 
-## 8. Próximos Passos
-
-A plataforma EduTok está pronta para ser implantada na rede municipal de ensino. Sugerimos o seguinte caminho:
-
-1. **Apresentação ao vivo** — Demonstração prática de todas as funcionalidades
-2. **Escola piloto** — Implantação em uma escola para validação com alunos e professores reais
-3. **Treinamento** — Capacitação de diretores, coordenadores e professores
-4. **Feedback e ajustes** — Melhorias baseadas na experiência dos primeiros usuários
-5. **Expansão** — Implantação gradual em toda a rede municipal
 
 ---
 
