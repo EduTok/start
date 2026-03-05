@@ -327,7 +327,20 @@ A inteligência artificial Eduna pode gerar:
 
 ---
 
-## 8. Benefícios para a Rede de Ensino
+## 8. Impacto Educacional Esperado
+
+Além de organizar a rotina, a adoção do EduTok gera resultados diretos na aprendizagem e nos índices educacionais da rede:
+
+- 📈 **Melhora no desempenho (Notas)** — O uso de IA adaptativa (EduGen) ajuda o aluno a focar exatamente onde tem dificuldade, enquanto os resumos e mapas mentais tornam o estudo em casa mais eficaz.
+- 📉 **Redução da evasão escolar** — Com o painel de dados, diretores e coordenadores conseguem identificar alunos em risco (baixas notas ou faltas de engajamento) antes que o abandono escolar aconteça.
+- 👪 **Maior participação das famílias** — A facilidade do app traz os pais para dentro da vida escolar do filho. O acompanhamento em tempo real elimina a surpresa do boletim no fim do bimestre.
+- 🔍 **Identificação precoce de dificuldades** — O "caderno de erros" da IA e as estatísticas de uso permitem que os professores atuem preventivamente nas lacunas de aprendizagem.
+- ⏱️ **Redução de burocracia para professores** — Menos tempo calculando médias e montando slides significa mais tempo dedicado ao ensino real e ao atendimento dos alunos.
+- 📊 **Dados educacionais para a Secretaria** — A rede passa a ter painéis com dados reais e atualizados, permitindo a criação de políticas públicas baseadas em evidências concretas.
+
+---
+
+## 9. Benefícios na Prática
 
 | Benefício | O Que Muda na Prática |
 | --------- | --------------------- |
@@ -343,7 +356,7 @@ A inteligência artificial Eduna pode gerar:
 
 ---
 
-## 9. Implementação na Rede de Ensino
+## 10. Implementação na Rede de Ensino
 
 A implantação do EduTok pode ser realizada de forma simples e gradual.
 
