@@ -99,11 +99,6 @@ O aluno acessa um ambiente moderno e intuitivo com as seguintes funcionalidades:
 - **Sequência de estudos** e estatísticas de uso
 - **Atividades recentes** com histórico
 
-#### Biblioteca de Recursos
-- **Materiais didáticos** organizados por matéria
-- **Download de apostilas, resumos e materiais complementares**
-- **Categorização** por tipo (PDF, vídeo, link, imagem)
-- **Busca inteligente** por palavra-chave
 
 ---
 
@@ -333,15 +328,6 @@ A **Eduna 1.3 Pro** é a assistente de IA integrada ao EduTok, projetada especif
 
 ---
 
-## 9. Contato e Próximos Passos
-
-A plataforma EduTok está pronta para implantação piloto na rede municipal de ensino. Para iniciar o processo de integração, sugerimos os seguintes próximos passos:
-
-1. **Reunião de apresentação detalhada** com demonstração ao vivo da plataforma
-2. **Seleção de escola(s) piloto** para validação em ambiente real
-3. **Treinamento da equipe gestora** e professores participantes
-4. **Feedback iterativo** com ajustes baseados na experiência dos usuários
-5. **Expansão gradual** para toda a rede municipal
 
 ---
 
